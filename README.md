@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Malon875-Heavy-Metal-Unicorns/Space%20Game%20-%20web%20-%20Release/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=blue-green)](https://dev.azure.com/Malon875-Heavy-Metal-Unicorns/Space%20Game%20-%20web%20-%20Release/_build/latest?definitionId=17&branchName=blue-green)
 
 ## Contributing
 
